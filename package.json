@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "cassandra-driver": "^4.7.2",
+    "dgraph-js": "^24.1.0",
+    "mongodb": "^6.10.0"
+  }
+}
